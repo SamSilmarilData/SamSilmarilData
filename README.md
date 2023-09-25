@@ -22,22 +22,6 @@ Data Science Enthusiast 📊 | Masters in Data Science at Pace University 🎓 |
 `Python` `Objective C` `R` `C++` `C#` `Java` `MATLAB` `SQL` `MySQL` `Tableau`  
 `Pandas` `NumPy` `Seaborn` `Matplotlib` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` `SciPy`
 
-## 🔥 Recent Projects 
-
-- **Reddit Recommendation System Using Python Neural Networks** 🧠
-  
-- **E-Sports Tournament App & Database** 🎮
-  
-- **Healthcare Fraud Detection Using Graph Database** 🩺
-  
-- **Weighted DBSCAN Clustering Algorithm Development** 📊
-
-## 🌐 Activities & Leadership
-
-- **Blood Camp, Event Organizer** 💉
-  
-- **Computer Science Club, Vice President** 💻
-
 ## 🌟 Interests 
 
 I'm deeply fascinated by Artificial Intelligence Concepts & Applications, especially in the realm of AI image generation 🖼️.
