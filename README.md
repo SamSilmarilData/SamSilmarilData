@@ -1,28 +1,47 @@
-# Hi there 👋, I'm Samyak Meshram!
+# Samyak Meshram 🚀
 
-![Data Science Enthusiast](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+Data Science Enthusiast 📊 | Masters in Data Science at Pace University 🎓 | Exploring the vast universe of AI & Data Analytics 🤖
 
-I'm currently pursuing my Masters in Data Science and am deeply passionate about everything related to data. From the raw databases to the stunning visualizations, I love every aspect of the data life cycle.
+<p align='center'>
+<a href="https://www.linkedin.com/in/meshramsamyak/"><img height="30" src="https://raw.githubusercontent.com/samslam/imagerepo/master/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/SamSilmarilData"><img height="30" src="https://raw.githubusercontent.com/samslam/imagerepo/master/github.png"></a>
+</p>
 
-## 📚 About Me
-- 🔭 **Current Study**: Masters in Data Science
-- 🌱 **Learning**: Advanced Machine Learning, Deep Learning Techniques, Big Data Technologies
-- 🤔 **Looking for Help**: Always eager to know about latest data science research, tools, and best practices
-- 💬 **Ask Me About**: Data Science, Machine Learning, Python, and R
-- 📫 **How to Reach Me**: [Send me an email](mailto:sam.meshram18@gmail.com) or ping me on [LinkedIn](https://www.linkedin.com/in/meshramsamyak/)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: Apart from crunching numbers, I love hiking and exploring nature!
+## 🎓 Education 
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+- **Master of Science in Data Science**, Pace University, Seidenberg School of CS & IS  
+  *Concentration*: Artificial Intelligence & Data Analytics  
+  *GPA*: 3.95, Graduating in May 2024  
+  
+- **Bachelor of Technology**, Visvesvaraya National Institute of Technology  
+  *Concentration*: Mechanical Engineering  
+  *GPA*: 3.9, Graduated in May 2021
 
-## 📈 GitHub Stats
+## 🛠️ Technical Skills
 
-![SamSilmarilData's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamSilmarilData&show_icons=true&hide_title=true&theme=tokyonight)
+`Python` `Objective C` `R` `C++` `C#` `Java` `MATLAB` `SQL` `MySQL` `Tableau`  
+`Pandas` `NumPy` `Seaborn` `Matplotlib` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` `SciPy`
 
-🌟 From [SamSilmarilData](https://github.com/SamSilmarilData)
+## 🔥 Recent Projects 
+
+- **Reddit Recommendation System Using Python Neural Networks** 🧠
+  
+- **E-Sports Tournament App & Database** 🎮
+  
+- **Healthcare Fraud Detection Using Graph Database** 🩺
+  
+- **Weighted DBSCAN Clustering Algorithm Development** 📊
+
+## 🌐 Activities & Leadership
+
+- **Blood Camp, Event Organizer** 💉
+  
+- **Computer Science Club, Vice President** 💻
+
+## 🌟 Interests 
+
+I'm deeply fascinated by Artificial Intelligence Concepts & Applications, especially in the realm of AI image generation 🖼️.
+
+---
+
+📍 New York, NY | 📩 samyakrakesh.meshram@pace.edu | 📞 917-962-2331
