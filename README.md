@@ -76,4 +76,4 @@ Exploring the realm of AI, especially **AI image generation** 🖼️, and const
 
 ---
 
-📍 **Location:** New York, NY | 📩 **Email:** samyakrakesh.meshram@pace.edu 
+📍 **Location:** New York, NY | 📩 **Email:** sam.meshram18@gmail.com
