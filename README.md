@@ -42,7 +42,7 @@
 <!-- CONTRIBUTION SNAKE GAME (ARCADE MOTION ARTIFACT)               -->
 <!-- ============================================================== -->
 <p align="center">
-  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/SamSilmarilData/SamSilmarilData/main/assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 <br>
