@@ -39,11 +39,23 @@
 <br>
 
 <!-- ============================================================== -->
-<!-- CONTRIBUTION SNAKE GAME (ARCADE MOTION ARTIFACT)               -->
+<!-- 3D ISOMETRIC CONTRIBUTION SKYLINE (CYBERPUNK NEON VIEW)       -->
 <!-- ============================================================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamSilmarilData/SamSilmarilData/main/assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/SamSilmarilData/SamSilmarilData/main/profile-3d-contrib/profile-night-view.svg?v=2" alt="GitHub 3D Contribution Skyline" width="100%" />
 </p>
+
+<details align="center">
+  <summary><b>🐍 Or Play the Arcade Snake Game [EXPAND]</b></summary>
+  <br>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamSilmarilData/SamSilmarilData/main/assets/github-contribution-grid-snake-dark.svg?v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamSilmarilData/SamSilmarilData/main/assets/github-contribution-grid-snake.svg?v=3">
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SamSilmarilData/SamSilmarilData/main/assets/github-contribution-grid-snake-dark.svg?v=3" width="100%" />
+    </picture>
+  </p>
+</details>
 
 <br>
 
